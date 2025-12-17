@@ -4,3 +4,5 @@ git status
 git add krish2.txt
 git commit -m "krish2.txt file added"
 git push origin
+
+git pull  # used to pull the file from the github
