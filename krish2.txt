@@ -1,0 +1,6 @@
+git clone https://github.com/Prajankrish/krishgit.git
+cd krishgit
+git status
+git add krish2.txt
+git commit -m "krish2.txt file added"
+git push origin
